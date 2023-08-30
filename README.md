@@ -1,1 +1,1 @@
-# des-app
+# Aplicación de dilo en señas
